@@ -6,6 +6,7 @@ Allow: /tags/
 Allow: /about/
 Allow: /changelog/
 Disallow: /404/
+Disallow: /Privacy-Policy/
 Disallow: /vendors/
 Disallow: /fonts/
 Disallow: /vendors/
