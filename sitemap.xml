@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ylsimpleedu.github.io/changelog/index.html</loc>
+    
+    <lastmod>2024-11-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ylsimpleedu.github.io/about/index.html</loc>
+    
+    <lastmod>2024-11-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ylsimpleedu.github.io/3A0005/</loc>
     
     <lastmod>2024-11-07</lastmod>
@@ -158,24 +176,6 @@
     <loc>https://ylsimpleedu.github.io/google14ca04357a9c340d.html</loc>
     
     <lastmod>2022-12-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ylsimpleedu.github.io/changelog/index.html</loc>
-    
-    <lastmod>2022-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ylsimpleedu.github.io/about/index.html</loc>
-    
-    <lastmod>2022-11-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
