@@ -2,9 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ylsimpleedu.github.io/20260704-P4-BaiCaoYuan-1/</loc>
+    
+    <lastmod>2026-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ylsimpleedu.github.io/20260612-P3-EmperorsNewClothes-1/</loc>
+    
+    <lastmod>2026-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ylsimpleedu.github.io/20260606-P3-UglyDuckling-1/</loc>
+    
+    <lastmod>2026-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ylsimpleedu.github.io/welcome/</loc>
     
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
